@@ -1,0 +1,114 @@
+
+.body1{
+    background-image: url("https://images.pexels.com/photos/694740/pexels-photo-694740.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+ 
+.titulo1{
+    font-family: fantasy;
+    text-align: center;
+    font-size: 70px;
+    color: bisque;
+}
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    backdrop-filter: blur(8px);
+}
+ 
+.texto-nav {
+    font-family: "Bebas Neue", sans-serif;
+}
+ 
+.navlist {
+    display: flex;
+    list-style-type: none;
+    width: 20%;
+    justify-content: space-evenly;
+}
+ 
+.list-item {
+    font-family: "Bebas Neue", sans-serif;
+    display: flex;
+    cursor: pointer;
+}
+ 
+.box1{
+    border-style: solid;
+    margin-top: 100px;
+    margin-left: 650px;
+    padding: 20px;
+    background-color: rgba(240, 248, 255, 0.644);
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: italic;
+    width: 500px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+}
+
+.body2{
+    background-image: url(https://images.pexels.com/photos/163194/old-retro-antique-vintage-163194.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.body3{
+    background-image: url(https://images.pexels.com/photos/1261578/pexels-photo-1261578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.titulo2{
+    font-family: fantasy;
+    text-align: center;
+    font-size: 70px;
+    color: bisque;
+}
+
+.titulo3{
+    font-family: fantasy;
+    text-align: center;
+    font-size: 70px;
+    color: bisque;
+}
+
+.box2{
+    border-style: solid;
+    margin-top: 100px;
+    margin-left: 650px;     
+    padding: 20px;
+    background-color: rgba(240, 248, 255, 0.644);
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: italic;
+    width: 500px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+}
+
+.box3{
+    border-style: solid;
+    margin-top: 100px;
+    margin-left: 650px;
+    padding: 20px;
+    background-color: rgba(240, 248, 255, 0.644);
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: italic;
+    width: 500px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: stretch;
+    border-radius: 100px;
+}
